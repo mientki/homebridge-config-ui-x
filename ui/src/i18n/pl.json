@@ -50,7 +50,7 @@
   "menu.linux.label_restart_server": "Zrestartuj Serwer",
   "menu.linux.label_shutdown_server": "Zamknij Serwer",
   "menu.linux.label_terminal": "Terminal",
-  "menu.tooltip_logout": "Wylogj",
+  "menu.tooltip_logout": "Wyloguj",
   "menu.tooltip_restart": "Uruchom ponownie",
   "menu.tooltip_user_accounts": "Konta użytkowników",
   "menu.tooltip_view_logs": "Przeglądaj Logi",
